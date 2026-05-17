@@ -117,7 +117,7 @@ Enter subject number:
 
 The acquired signals are automatically stored as .xlsx files.
 
-### 2. EMG_ADS1292.m
+### 2. EMG_ADS.m
 
 This script processes the EMG recordings stored inside the datasets folder.
 
