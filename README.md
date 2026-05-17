@@ -1,5 +1,5 @@
-#EMG Signal Acquisition and Classification for Lower Limb Spasticity Analysis using ADS1292R and ESP32
-##Overview
+EMG Signal Acquisition and Classification for Lower Limb Spasticity Analysis using ADS1292R and ESP32
+Overview
 
 This repository contains the complete development framework used for the acquisition, processing, visualization, feature extraction, and classification of surface electromyographic (\textbf{sEMG}) signals acquired from lower limb muscles using an \textbf{ADS1292R} analog front-end and an \textbf{ESP32} microcontroller.
 
