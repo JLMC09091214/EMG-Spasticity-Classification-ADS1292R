@@ -74,6 +74,30 @@ CISP (Isometric Contraction Without Weight)
 
 The CICP condition was only evaluated in healthy subjects due to clinical safety considerations for patients with spasticity.
 
+## Additional Dataset Information
+
+This repository also includes a compressed file named:
+
+`datads.rar`
+
+The file contains example EMG recordings acquired from healthy subjects and patients with spasticity using the ADS1292R and ESP32 acquisition system.
+
+Due to repository size limitations and research considerations, only a reduced subset of the original database is included. However, the provided folder structure and acquisition format allow researchers, students, and developers to continue expanding the dataset with their own EMG recordings and experimental sessions.
+
+The purpose of sharing this structure is to encourage future research in:
+
+* Lower limb electromyography
+* Spasticity analysis
+* Biomedical signal processing
+* Machine learning for rehabilitation engineering
+* Human movement analysis
+* Neuroengineering applications
+
+Researchers interested in this topic may continue collecting additional measurements and contribute toward the development of improved diagnostic and rehabilitation tools for patients with spasticity and other neuromuscular disorders.
+
+All data included in this repository were anonymized for academic and research purposes.
+
+
 ## Code Description
 ### 1. read_EMG.m
 
